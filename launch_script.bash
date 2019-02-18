@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source /opt/ros/bouncy/setup.bash
+source /opt/ros/crystal/setup.bash
 
 echo "*************************************************************"
 
