@@ -10,5 +10,5 @@ Go to https://rctf.aliasrobotics.com and select scenario 2.
 git clone https://github.com/aliasrobotics/docker-scenario2-local
 cd docker-scenario2-local
 docker build -t scenario2-local .
-docker run -it scenario2-local
+docker run -it -h rctf2 scenario2-local
 ```
